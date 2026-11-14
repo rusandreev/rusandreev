@@ -20,7 +20,3 @@ I'm a software engineer transitioning into AI research engineering, focusing on 
 ### Research philosophy
 
 Understand the theory. Implement the idea. Measure the results. Explain what happened.
-
-### Connect
-
-GitHub: [@rusandreev](https://github.com/rusandreev)
