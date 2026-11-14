@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ruslan Andreev 👋
 
-<!--
-**rusandreev/rusandreev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer → AI Research Engineer**
 
-Here are some ideas to get you started:
+I'm a software engineer transitioning into AI research engineering, focusing on the foundations and practical implementation of modern machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research interests
+
+- Multimodal Learning
+- World Models & Predictive Learning
+- Generalization & Representation Learning
+
+### What I'm working on
+
+- Building stronger foundations in mathematics and deep learning
+- Learning to implement and evaluate research ideas using PyTorch
+- Developing reproducible ML experiments
+- Building software tools that connect engineering with research
+
+### Research philosophy
+
+Understand the theory. Implement the idea. Measure the results. Explain what happened.
+
+### Connect
+
+GitHub: [@rusandreev](https://github.com/rusandreev)
